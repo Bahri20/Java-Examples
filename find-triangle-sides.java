@@ -11,5 +11,6 @@ public class Main {
         c = (a*a)+(b*b);
         c=Math.sqrt(c = (a*a)+(b*b));
         System.out.println("hipotenüs: " + c);
+  
     }
 }
