@@ -10,6 +10,5 @@ public class Main {
 
                 indeks=kilo/(boy*boy);
                 System.out.println("vücut kitle indeksiniz: " + indeks);
-
         }
 }
