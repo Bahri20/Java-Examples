@@ -25,7 +25,6 @@ public class Main {
                 break;
             default:
                 System.out.print("lütfen kontrol ediniz 1-4 arası rakam girebilrisiniz!");
-
         }
     }
 }
