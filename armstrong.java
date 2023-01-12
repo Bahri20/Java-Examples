@@ -12,7 +12,5 @@ public class Main {
             sayi=sayi/10; //sağdaki basamağı sil
         }
         System.out.println("Yazdığınız sayının basamakları toplamı="+toplam);
-
     }
 }
-
