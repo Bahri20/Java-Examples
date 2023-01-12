@@ -13,8 +13,6 @@ public class Main {
         for (int i=1;i<=k; i*=5){
             System.out.println(i);
         }
-
-
         System.out.println("Program Bitti..");
     }
 }
