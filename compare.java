@@ -27,9 +27,7 @@ public class Main {
             }else {
                 System.out.println("c>a>b");
             }
-
         }
         System.out.println("PROGRAM BİTTİ!");
-
     }
 }
