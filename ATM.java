@@ -48,7 +48,6 @@ public class Main {
                             break;
                         default:
                             System.out.println("Yanlış seçim yaptınız.");
-
                     }
                 }while (select!=4);
                 break;
