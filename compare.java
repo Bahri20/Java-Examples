@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a,b,c;
+        System.out.println("birbirinden farklı sayılar giriniz: ");
         System.out.print("1. sayı:");
         a= input.nextInt();
         System.out.print("2. sayı:");
