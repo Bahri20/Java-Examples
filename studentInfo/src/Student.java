@@ -46,6 +46,4 @@ public class Student {
         System.out.println(this.c3.name +" "+ this.c3.note);
         System.out.println("ortalamanız: "+ this.avarage);
     }
-
-
 }
