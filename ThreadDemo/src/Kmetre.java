@@ -5,9 +5,7 @@ public class Kmetre implements Runnable {
     public Kmetre(String threadName) {
         this.threadName=threadName;
         System.out.println(threadName);
-
     }
-
     @Override
     public void run() {
         try {
